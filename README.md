@@ -1,6 +1,8 @@
-## Employee Tracker
+## Code-Walkthrough
 
 This is a command line application that allows the user to navigate, create, and update their employee database with only a few clicks. It's a work in progress and some features remain inaccessible but will be updated soon. The database allows for an indefinite number of employees, departmetns, and roles. 
+
+![Alt Text](public/gif/Passport%20Authentication.gif)
 
 ## **Built With**
 * [GitHub](https://github.com/)
@@ -50,7 +52,6 @@ __________________________________________________________________________
 ### **Author Links**
 
 * **PAMELA GUTIERREZ**
-* 
 * [Link to Portfolio Site](https://pamela-gutierrez.github.io/updated-portfolio/)
 - [Link to Github](https://github.com/pamela-gutierrez) 
 - [Link to LinkedIn](www.linkedin.com/in/pamela-gutierrez)
